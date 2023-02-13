@@ -21,7 +21,7 @@ int main(){
 
     std::cout << "Welcome to the login terminal" << std::endl;
 
-    //CheckforFile();
+    CheckforFile();
     bool loop = true;
 
     //Loop the menu and user input until exit is selected
